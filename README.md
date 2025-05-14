@@ -8,7 +8,7 @@ This repository contains a modular Python implementation of univariate and multi
 .
 ├── discriminants.py                         # Defines univariate and multivariate Gaussian discriminants
 ├── classifiers1.py                          # Implements classifiers that use the discriminants
-└── HW2_Univariate_and_Multivariate_Discriminants.ipynb  # Demonstrates usage, data processing, and evaluation
+└── Univariate_and_Multivariate_Discriminants.ipynb  # Demonstrates usage, data processing, and evaluation
 ```
 
 ## Overview
@@ -22,7 +22,7 @@ The classifier assigns a label to a new data point based on which class's discri
 
 ## Dataset
 
-The dataset used in the notebook (`HW2_Univariate_and_Multivariate_Discriminants.ipynb`) is either synthetically generated or loaded using Pandas. It consists of numeric features and a categorical label column named `"Labels"`. Each row represents a sample belonging to one of multiple classes.
+The dataset used in the notebook (`Univariate_and_Multivariate_Discriminants.ipynb`) is either synthetically generated or loaded using Pandas. It consists of numeric features and a categorical label column named `"Labels"`. Each row represents a sample belonging to one of multiple classes.
 
 ## Modules Description
 
